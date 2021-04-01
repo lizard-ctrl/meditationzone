@@ -10,7 +10,16 @@
     font-weight: bold;
     font-size: 30px;
 }
-
+html, body {
+    font-family: "RadioGrotesk";
+    margin: 0;
+    padding: 0;
+    background: black;
+  }
+  canvas {
+    display: block;
+  }
+  
 body{
     font-family: "CasaRegular";
     
