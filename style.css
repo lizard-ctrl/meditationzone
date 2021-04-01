@@ -70,8 +70,20 @@ p{
 }
 #ske3{
     padding: 2%;
-    left: 40%;
-    top: 70%;
+    left: 20%;
+    top: 60%;
     border-radius: 25px;
     background-color: rgba(81, 43, 170, 0.7);
+}
+#ske4{
+    padding: 2%;
+    left: 60%;
+    top: 65%;
+    border-radius: 25px;
+    background-color: rgba(81, 43, 170, 0.7);
+}
+
+a{
+    color: black;
+
 }
