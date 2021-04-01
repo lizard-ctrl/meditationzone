@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "CasaRegular";
+    src: url("font/Casa-Regular.otf") format("opentype");
+    font-weight: bold;
+    font-size: 50px;
+}
+@font-face {
+    font-family: "RadioGrotesk";
+    src: url("font/RadioGrotesk-Regular.otf") format("opentype");
+    font-weight: bold;
+    font-size: 30px;
+}
+
+body{
+    font-family: "CasaRegular";
+    
+}
+h1{
+    color: black;
+    font-family: "CasaRegular";
+    font-size: 70px;
+    
+}
+div{
+    top: 10%;
+    left: 25%;
+    position: absolute;
+}
+
+#info{
+    display: none;
+    width: 70%;
+    height: 30%;
+    top: 50%;
+    left: 15%;
+    border-radius: 25px;
+    background-color: rgba(12, 98, 237, 0.7);
+}
+canvas {
+    display: block;
+  }
+
+#sketches{
+    display: none;
+    width: 70%;
+    height: 30%;
+    top: 50%;
+    left: 15%;
+    border-radius: 25px;
+    background-color: rgba(12, 98, 237, 0.7);
+}
+
+p{
+    padding: 1%;
+    font-family: "RadioGrotesk";
+    font-size: 20px;
+}
+
+#ske1{
+    padding: 2%;
+    left: 70%;
+    border-radius: 25px;
+    background-color: rgba(81, 43, 170, 0.7);
+}
+#ske2{
+    padding: 2%;
+    left: 10%;
+    border-radius: 25px;
+    background-color: rgba(81, 43, 170, 0.7);
+}
+#ske3{
+    padding: 2%;
+    left: 40%;
+    top: 70%;
+    border-radius: 25px;
+    background-color: rgba(81, 43, 170, 0.7);
+}
