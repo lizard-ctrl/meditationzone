@@ -19,7 +19,7 @@ html, body {
   canvas {
     display: block;
   }
-  
+
 body{
     font-family: "CasaRegular";
     
@@ -62,7 +62,7 @@ canvas {
 p{
     padding: 1%;
     font-family: "RadioGrotesk";
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #ske1{
